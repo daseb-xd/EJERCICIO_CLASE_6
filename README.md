@@ -1,4 +1,5 @@
-# EJERCICIO_CLASE_6
+# EJERCICIOS PROGRAMACIÓN ORIENTADA A OBJETOS
+## EJERCICIO CLASE 6
 Ejercicio propuesto al final de la clase 6
 
 ```
@@ -26,3 +27,4 @@ El return de estas 2 funciones es:
 Daniel is greeting you!
 True
 ```
+## EJERCICIO CLASE 7
